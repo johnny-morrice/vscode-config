@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/vendor": true,
+        "**/_data": true,
+        "**/test_data": true
+    },
+    "editor.multiCursorModifier": "alt",
+    "workbench.startupEditor": "newUntitledFile",
+    "go.gopath": "/home/jmorrice/workspace/gospace",
+    "go.buildTags": "integration",
+    "go.lintTool": "gometalinter",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "go.lintOnSave": "off",
+}
